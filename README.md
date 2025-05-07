@@ -1,2 +1,2 @@
 # termainejenkins.github.io
-My public portfolio 12
+My public portfolio
